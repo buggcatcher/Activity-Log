@@ -54,7 +54,7 @@ log
 
 ## 🤝 Contribuisci al Progetto
 
-Il tuo contributo è fondamentale per migliorare Activity Log! Se hai suggerimenti, hai trovato bug o vuoi contribuire al codice:
+Se hai suggerimenti, hai trovato bug o vuoi contribuire al codice:
 
 1. 🐛 **Segnala un Bug**  
    Apri una [Issue](https://github.com/buggcatcher/Activity-Log/issues) descrivendo il problema riscontrato.
