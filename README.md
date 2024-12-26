@@ -1,25 +1,22 @@
-Activity Log
+📒 Activity Log
 
-Activity Log è uno script Bash che permette di registrare le attività quotidiane in un file di log semplice ed efficace. Include un sistema per tracciare l'inizio e la fine delle attività con timestamp precisi, oltre a una semplice gestione tramite comandi.
+Activity Log è uno script Bash progettato per semplificare la registrazione delle tue attività quotidiane. Con un'interfaccia intuitiva e un potente sistema di tracciamento, ti aiuta a tenere sotto controllo le tue attività con facilità.
+✨ Caratteristiche principali
 
-Funzionalità principali
+    📝 Inserimento manuale: Aggiungi attività con una breve descrizione.
+    ⏱️ Tracciamento temporale: Registra l'inizio e la fine delle attività con timestamp precisi.
+    📜 Visualizzazione rapida: Mostra le ultime attività registrate nel file di log.
+    🔧 Installazione semplice: Include un Makefile per un setup veloce e automatico.
+    🚀 Alias rapido: Usa il comando log per accedere rapidamente allo script.
 
-    Inserimento di attività manuali: Aggiungi un'attività con una breve descrizione.
-    Tracciamento temporale: Registra l'inizio e la fine di attività con timestamp.
-    Visualizzazione del log: Mostra le attività registrate nel file di log.
-    Installazione automatizzata: Include un Makefile per installare lo script e aggiungerlo facilmente al PATH.
-    Alias personalizzato: Utilizza l'alias log per accedere rapidamente al programma.
-
-Installazione
-
-Per installare Activity Log, segui questi passaggi:
+⚙️ Installazione
 
     Clona il repository:
 
 git clone <repository-url>
 cd <repository-folder>
 
-Esegui il comando di installazione con il Makefile:
+Esegui l'installazione con il Makefile:
 
 make install
 
@@ -27,4 +24,8 @@ Applica le modifiche al file .bashrc:
 
     source ~/.bashrc
 
-Ora puoi avviare il programma digitando log nel terminale.
+✅ Ora sei pronto! Avvia il programma semplicemente digitando:
+
+log
+
+💡 Provalo ora per organizzare meglio le tue giornate!
