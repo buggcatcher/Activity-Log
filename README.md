@@ -1,24 +1,24 @@
 # 📝  Activity Log 
 
-** Activity Log** è uno script Bash progettato per registrare e organizzare le tue attività quotidiane con semplicità ed efficienza. Grazie a un sistema intuitivo, puoi tracciare ogni attività con timestamp precisi e richiamarla velocemente quando serve.
+Activity Log è uno script Bash progettato per registrare e organizzare le tue attività quotidiane con semplicità ed efficienza. Grazie a un sistema intuitivo, puoi tracciare ogni attività con timestamp precisi e richiamarla velocemente quando serve.
 
 ---
 
 ## ✨  Caratteristiche principali
 
-- ** Inserimento manuale**  
+-  Inserimento manuale   
   📌 Aggiungi descrizioni personalizzate alle attività.  
 
-- ** Tracciamento temporale**  
+-  Tracciamento temporale  
   ⏱️ Registra l'inizio e la fine di ogni attività con orari esatti.  
 
-- ** Visualizzazione del log**  
+-  Visualizzazione del log  
   📜 Consulta facilmente le attività registrate nel file di log.  
 
-- ** Installazione rapida**  
+-  Installazione rapida  
   🛠️ Installa lo script automaticamente con il supporto del `Makefile`.  
 
-- ** Alias rapido**  
+-  Alias rapido  
   🚀 Accedi al programma in qualsiasi momento usando il comando `log`.  
 
 ---
