@@ -27,8 +27,8 @@ Activity Log è uno script Bash progettato per registrare e organizzare le tue a
 
 ### 1️⃣ Clona il repository:  
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone git@github.com:buggcatcher/Activity-Log.git
+cd Activity-Log
 ```
 
 ### 2️⃣ Installa lo script con il `Makefile`:  
