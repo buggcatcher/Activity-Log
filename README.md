@@ -49,3 +49,33 @@ log
 ```  
 
 🔍 **Testa la potenza di Activity Log per tenere traccia delle tue giornate in modo semplice ed efficace!**
+
+---
+
+## 🤝 Contribuisci al Progetto
+
+Il tuo contributo è fondamentale per migliorare Activity Log! Se hai suggerimenti, hai trovato bug o vuoi contribuire al codice:
+
+1. 🐛 **Segnala un Bug**  
+   Apri una [Issue](https://github.com/buggcatcher/Activity-Log/issues) descrivendo il problema riscontrato.
+
+2. 💡 **Proponi Miglioramenti**  
+   Condividi le tue idee aprendo una [Issue](https://github.com/buggcatcher/Activity-Log/issues) con il tag "enhancement".
+
+3. 🔧 **Contribuisci al Codice**  
+   - Fai un fork del repository
+   - Crea un branch per la tua feature (`git checkout -b feature/NuovaFeature`)
+   - Committa le modifiche (`git commit -m 'Aggiunta: nuova feature'`)
+   - Pusha sul branch (`git push origin feature/NuovaFeature`)
+   - Apri una Pull Request
+
+## 🗺️ Roadmap
+
+| Feature Pianificata | Descrizione | Stato |
+|-------------------|-------------|--------|
+| Navigazione con Frecce | <ul><li>➡️ Destra/sinistra per muoversi nella stringa</li><li>⬆️ Su/giù per navigare la cronologia</li></ul> | 🚧 In Sviluppo |
+| Gestione Sessioni | <ul><li>🔄 Impossibilità di aggiornare attività tra sessioni</li><li>📅 Stampa automatica della data corrente alla riapertura</li></ul> | 📋 Pianificato |
+| Correttore Automatico | 📝 Sistema di correzione automatica durante l'inserimento | 💭 Proposto |
+
+---
+
